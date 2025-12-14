@@ -4,7 +4,12 @@ class InformationCard extends StatelessWidget {
   final IconData icon;
   final String label;
   final String value;
-  const InformationCard({super.key, required this.icon, required this.label,required this.value});
+  const InformationCard({
+    super.key,
+    required this.icon,
+    required this.label,
+    required this.value,
+  });
 
   @override
   Widget build(BuildContext context) {
