@@ -13,9 +13,8 @@ This project is built using **Flutter** for cross-platform support — it runs o
 ✅ Clean and responsive UI (mobile & web)  
 ✅ Built with beginner-friendly architecture in Flutter
 
-> You can enhance this app further with features like 5-day forecast, location detection, animations, and caching.
-
 ---
+
 
 ## 📦 Tech Stack
 
@@ -29,5 +28,9 @@ This project is built using **Flutter** for cross-platform support — it runs o
 
 ---
 
-## 📁 Project Structure
-
+## ▶️ Run Locally
+```bash
+git clone https://github.com/sakshiv3107/Weather_app.git
+cd Weather_app
+flutter pub get
+flutter run
